@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Ninja HR 101",
+      "description": "10 HR Manager Software thant includes the features like employee attendance, calculating salary, Biometeric check in and checkout.",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "Magic Pay",
+      "description": "Magical Pay application. This app make the users can't stop using it. Pure Magic",
+      "completed": true
+    },
+    {
+      "name": "Fire Blog",
+      "description": "Blog with vue and firebase",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "name": "Invoice app 101",
+      "description": "Invoice app with vue and firebase",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "PWA",
+      "description": "Progressive web app with Laravel and Vue",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
